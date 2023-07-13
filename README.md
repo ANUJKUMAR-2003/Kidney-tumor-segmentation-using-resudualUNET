@@ -6,8 +6,10 @@ I have used the KITS19 dataset for this project. In this dataset the scans of 21
 Because of lack of resources i have used only 20 of them.
 To download dataset run following commands..
 
-`git clone https://github.com/neheller/kits19
+```
+git clone https://github.com/neheller/kits19
 cd kits19
 pip3 install -r requirements.txt
-python3 -m starter_code.get_imaging`
+python3 -m starter_code.get_imaging
+```
 
